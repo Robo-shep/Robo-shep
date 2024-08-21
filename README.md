@@ -37,6 +37,12 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
+
+
  # Languages
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)

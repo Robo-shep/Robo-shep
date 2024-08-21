@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+
+<img align="right" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robo-shep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
+
+
 <img align="left" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=Robo-shep&show_icons=true&theme=tokyonight&hide_border=true"/>
 
  # Languages
@@ -45,7 +49,6 @@ Here are some ideas to get you started:
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#)
 
 
-<img align="right" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robo-shep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
 
 
 ## Operating Systems I Have Used

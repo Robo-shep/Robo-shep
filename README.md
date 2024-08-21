@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<img align="right" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robo-shep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
+
 
  # Tools I have Used 
 ![Firefox](https://img.shields.io/badge/Firefox-FB542B?style=for-the-badge&logo=Firefox&logoColor=white)
@@ -43,6 +43,10 @@ Here are some ideas to get you started:
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](#)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#)
+
+
+<img align="right" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robo-shep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
+
 
 ## Operating Systems I Have Used
 I use Linux in my daily life. Currently, I am using Arch. The distributions i have been using are the following

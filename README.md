@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 <img align="right" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=Gurmukh-Singh-4253&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+
+
+
+
 ## Tools I have Used 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FB542B?style=for-the-badge&logo=Firefox&logoColor=white)
@@ -30,7 +34,15 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
+
+
+
 <img align="left" width="46%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmukh-Singh-4253&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
+
+
+
+
+
 
 
 ## Languages
@@ -45,6 +57,11 @@ Here are some ideas to get you started:
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](#)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#)
+
+
+
+
+
 
 ## Operating Systems I Have Used
 I use Linux in my daily life. Currently, I am using Arch. The distributions i have been using are the following

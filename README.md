@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-
+<br>
+<br>
+<br>
 
 
 <img align="left" width="46%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmukh-Singh-4253&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>

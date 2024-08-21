@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me ... gurmukh050304@gmail.com
 
 
-<img align="left" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=Gurmukh-Singh-4253&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img align="right" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=Gurmukh-Singh-4253&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 ## Tools I have Used 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)

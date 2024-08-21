@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 
 <img align="left" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=Gurmukh-Singh-4253&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img align="left" width="46%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmukh-Singh-4253&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
 
 ## Tools I have Used 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
@@ -30,6 +29,9 @@ Here are some ideas to get you started:
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+
+<img align="left" width="46%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmukh-Singh-4253&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
+
 
 ## Languages
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)

@@ -20,11 +20,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me ... Roboticsheepminecraft@gmail.com
 
 ## Tools I have Used 
-![Firefox](https://img.shields.io/badge/Firefox-FB542B?style=for-the-badge&logo=Firefox&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 <img align="right" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=Robo-shep&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+![Firefox](https://img.shields.io/badge/Firefox-FB542B?style=for-the-badge&logo=Firefox&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-1f51ff?&style=for-the-badge&logo=neovim&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=red)
+![VScodium](https://img.shields.io/badge/VScodium-00FFFF?style=for-the-badge&logo=VScodium&logoColor=black)
 <br>
 <br>
 </p>
@@ -48,9 +51,10 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS5](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-Black?style=for-the-badge&logo=JavaScript)
+![Java](https://img.shields.io/badge/JavaScript-%23FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=%23EE4B2B)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#)
 <br>
 </p>

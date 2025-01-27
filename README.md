@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👀 I’m interested in ... *Web and Crypto Cracking* , ***Computer Science*** , *Game cracking*
+- 👀 I’m interested in ... *Neural Networks* , ***Computer Science*** , **Operating systems**
 - 🌱 I love to spend time watching anime or playing games *(War Thunder)* in my freetime
 - 👨‍💻 I’m a student. I am pursuing Bachelor's in Technology from Amity University. 
 - 📫 How to reach me ... Roboticsheepminecraft@gmail.com

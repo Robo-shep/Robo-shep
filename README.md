@@ -63,6 +63,10 @@ Here are some ideas to get you started:
 <p>
 <br>
 </p>
+<br>
+<br>
+<br>
+
 
 
 ## Operating Systems I Have Used
@@ -74,3 +78,8 @@ I use Linux in my daily life. Currently, I am using Arch. The distributions i ha
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)](#)
+
+## Contributions
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robo-shep&radius=100&theme=high-contrast&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution%20Graph" height="350" alt="activity-graph graph"  />
+</div>
